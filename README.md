@@ -1,2 +1,4 @@
 # PowerBi-Dashboards
-Collection of Power BI Dashboards for business use cases
+# Sales Performance Dashboard
+
+This dashboard analyzes monthly sales trends, product category performance, and top customers by revenue.
